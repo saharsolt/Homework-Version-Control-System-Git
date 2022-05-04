@@ -1,1 +1,2 @@
 # Homework-Version-Control-System-Git
+It is my homework for Version Control System with Git passed successfully. I created some directories and files, put data in each files, did git add and commit the changes to my local repository, create a branch, moved between branches, merge the branches, and push to the repository. Also in .gitignore, I ignored exe, pif, and psd files.
