@@ -1,0 +1,9 @@
+Student ID: 2205943
+Student Name: Sahar Soltanmohammadi
+-------------------------------------
+what is your favorite food? Ghormesabzi
+
+What is your favorite color? Purple
+
+Where are you from? Iran
+--------------------------------------
